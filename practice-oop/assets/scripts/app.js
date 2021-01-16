@@ -183,7 +183,7 @@ class App {
     analyticsScript.src = 'assets/scripts/analytics.js';
     analyticsScript.defer = true;
     document.head.append(analyticsScript);
-  iiiiiii}
+  }
 }
 
 App.init();
